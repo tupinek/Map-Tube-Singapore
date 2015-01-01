@@ -6,9 +6,9 @@
     <station id="NS2" name="Bukit Batok" line="North South MRT Line" link="NS1,NS3"/>
     <station id="NS3" name="Bukit Gombak" line="North South MRT Line" link="NS2,NS4"/>
     <station id="NS4" name="Choa Chu Kang" line="North South MRT Line" link="NS3,NS5"/>
-    <station id="NS5" name="Yew Tee" line="North South MRT Line" link="NS4,NS6"/>
+    <station id="NS5" name="Yew Tee" line="North South MRT Line" link="NS4,NS7"/>
     <station id="NS7" name="Kranji" line="North South MRT Line" link="NS5,NS8"/>
-    <station id="NS8" name="Marsiling" line="North South MRT Line" link="NS07,NS9"/>
+    <station id="NS8" name="Marsiling" line="North South MRT Line" link="NS7,NS9"/>
     <station id="NS9" name="Woodlands" line="North South MRT Line" link="NS8,NS10"/>
     <station id="NS10" name="Admiralty" line="North South MRT Line" link="NS9,NS11"/>
     <station id="NS11" name="Sembawang" line="North South MRT Line" link="NS10,NS12"/>
