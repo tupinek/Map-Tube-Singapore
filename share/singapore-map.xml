@@ -97,28 +97,22 @@
     <station id="CC29" name="HarbourFront" line="Circle MRT Line" link="CC28"/>
 
     <!-- https://en.wikipedia.org/wiki/North_East_MRT_Line -->
-    <station id="M1-01" name="" line="" link="M1-02"/>
-    <station id="M1-02" name="" line="" link="M1-01,M1-03"/>
-    <station id="M1-03" name="" line="" link="M1-02,M1-04"/>
-    <station id="M1-04" name="" line="" link="M1-03,M1-05"/>
-    <station id="M1-05" name="" line="" link="M1-04,M1-06"/>
-    <station id="M1-06" name="" line="" link="M1-05,M1-07"/>
-    <station id="M1-07" name="" line="" link="M1-06,M1-08"/>
-    <station id="M1-08" name="" line="" link="M1-07,M1-09"/>
-    <station id="M1-09" name="" line="" link="M1-08,M1-10"/>
-    <station id="M1-10" name="" line="" link="M1-09,M1-11"/>
-    <station id="M1-11" name="" line="" link="M1-10,M1-12"/>
-    <station id="M1-12" name="" line="" link="M1-11,M1-13"/>
-    <station id="M1-13" name="" line="" link="M1-12,M1-14"/>
-    <station id="M1-14" name="" line="" link="M1-13,M1-15"/>
-    <station id="M1-15" name="" line="" link="M1-14,M1-16"/>
-    <station id="M1-16" name="" line="" link="M1-15,M1-17"/>
-    <station id="M1-17" name="" line="" link="M1-16,M1-18"/>
-    <station id="M1-18" name="" line="" link="M1-17,M1-19"/>
-    <station id="M1-19" name="" line="" link="M1-18,M1-20"/>
-    <station id="M1-20" name="" line="" link="M1-19,M1-21"/>
-    <station id="M1-21" name="" line="" link="M1-20,M1-22"/>
-    <station id="M1-22" name="" line="" link="M1-21"/>
+    <station id="NE1" name="HarbourFront" line="North East MRT Line" link="NE3"/>
+    <station id="NE3" name="Outram Park" line="North East MRT Line" link="NE1,NE4"/>
+    <station id="NE4" name="Chinatown" line="North East MRT Line" link="NE3,NE5"/>
+    <station id="NE5" name="Clarke Quay" line="North East MRT Line" link="NE4,NE6"/>
+    <station id="NE6" name="Dhoby Ghaut" line="North East MRT Line" link="NE5,NE7"/>
+    <station id="NE7" name="Little India" line="North East MRT Line" link="NE6,NE8"/>
+    <station id="NE8" name="Farrer Park" line="North East MRT Line" link="NE7,NE9"/>
+    <station id="NE9" name="Boon Keng" line="North East MRT Line" link="NE8,NE10"/>
+    <station id="NE10" name="Potong Pasir" line="North East MRT Line" link="NE9,NE11"/>
+    <station id="NE11" name="Woodleigh" line="North East MRT Line" link="NE10,NE12"/>
+    <station id="NE12" name="Serangoon" line="North East MRT Line" link="NE11,NE13"/>
+    <station id="NE13" name="Kovan" line="North East MRT Line" link="NE12,NE14"/>
+    <station id="NE14" name="Hougang" line="North East MRT Line" link="NE13,NE15"/>
+    <station id="NE15" name="Buangkok" line="North East MRT Line" link="NE14,NE16"/>
+    <station id="NE16" name="Sengkang" line="North East MRT Line" link="NE15,NE17"/>
+    <station id="NE17" name="Punggol" line="North East MRT Line" link="NE16"/>
 
     <!-- https://en.wikipedia.org/wiki/Downtown_MRT_Line -->
     <station id="M1-01" name="" line="" link="M1-02"/>
