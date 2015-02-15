@@ -162,7 +162,6 @@ For more information about Singapore Map, click L<here|https://en.wikipedia.org/
  # GraphViz object.
  my $g = Map::Tube::GraphViz->new(
          'callback_node' => \&node_color_without_label,
-         'driver' => 'neato',
          'tube' => $obj,
  ); 
 
