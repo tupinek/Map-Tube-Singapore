@@ -3,7 +3,7 @@
   <!-- https://en.wikipedia.org/wiki/Mass_Rapid_Transit_(Singapore) -->
   <stations>
     <!-- https://en.wikipedia.org/wiki/North_South_MRT_Line -->
-    <station id="NS1" name="Jurong East #1" line="North South MRT Line" link="NS2"/>
+    <station id="NS1" name="Jurong East" line="North South MRT Line" link="NS2"/>
     <station id="NS2" name="Bukit Batok" line="North South MRT Line" link="NS1,NS3"/>
     <station id="NS3" name="Bukit Gombak" line="North South MRT Line" link="NS2,NS4"/>
     <station id="NS4" name="Choa Chu Kang" line="North South MRT Line" link="NS3,NS5"/>
@@ -18,17 +18,17 @@
     <station id="NS14" name="Khatib" line="North South MRT Line" link="NS13,NS15"/>
     <station id="NS15" name="Yio Chu Kang" line="North South MRT Line" link="NS14,NS16"/>
     <station id="NS16" name="Ang Mo Kio" line="North South MRT Line" link="NS15,NS17"/>
-    <station id="NS17" name="Bishan #1" line="North South MRT Line" link="NS16,NS18"/>
+    <station id="NS17" name="Bishan" line="North South MRT Line" link="NS16,NS18"/>
     <station id="NS18" name="Braddell" line="North South MRT Line" link="NS17,NS19"/>
     <station id="NS19" name="Toa Payoh" line="North South MRT Line" link="NS18,NS20"/>
     <station id="NS20" name="Novena" line="North South MRT Line" link="NS19,NS21"/>
     <station id="NS21" name="Newton" line="North South MRT Line" link="NS20,NS22"/>
     <station id="NS22" name="Orchard" line="North South MRT Line" link="NS21,NS23"/>
     <station id="NS23" name="Somerset" line="North South MRT Line" link="NS22,NS24"/>
-    <station id="NS24" name="Dhoby Ghaut #1" line="North South MRT Line" link="NS23,NS25"/>
-    <station id="NS25" name="City Hall #1" line="North South MRT Line" link="NS24,NS26"/>
-    <station id="NS26" name="Raffles Place #1" line="North South MRT Line" link="NS25,NS27"/>
-    <station id="NS27" name="Marina Bay #1" line="North South MRT Line" link="NS26,NS28"/>
+    <station id="NS24" name="Dhoby Ghaut" line="North South MRT Line" link="NS23,NS25"/>
+    <station id="NS25" name="City Hall" line="North South MRT Line" link="NS24,NS26"/>
+    <station id="NS26" name="Raffles Place" line="North South MRT Line" link="NS25,NS27"/>
+    <station id="NS27" name="Marina Bay" line="North South MRT Line" link="NS26,NS28"/>
     <station id="NS28" name="Marina South Pier" line="North South MRT Line" link="NS27"/>
 
     <!-- https://en.wikipedia.org/wiki/East_West_MRT_Line -->
@@ -39,23 +39,23 @@
     <station id="EW5" name="Bedok" line="East West MRT Line" link="EW4,EW6"/>
     <station id="EW6" name="Kembangan" line="East West MRT Line" link="EW5,EW7"/>
     <station id="EW7" name="Eunos" line="East West MRT Line" link="EW6,EW8"/>
-    <station id="EW8" name="Paya Lebar #1" line="East West MRT Line" link="EW7,EW9"/>
+    <station id="EW8" name="Paya Lebar" line="East West MRT Line" link="EW7,EW9"/>
     <station id="EW9" name="Aljunied" line="East West MRT Line" link="EW8,EW10"/>
     <station id="EW10" name="Kallang" line="East West MRT Line" link="EW9,EW11"/>
     <station id="EW11" name="Lavender" line="East West MRT Line" link="EW10,EW12"/>
-    <station id="EW12" name="Bugis #1" line="East West MRT Line" link="EW11,EW13"/>
-    <station id="EW13" name="City Hall #2" line="East West MRT Line" link="EW12,EW14"/>
-    <station id="EW14" name="Raffles Place #2" line="East West MRT Line" link="EW13,EW15"/>
+    <station id="EW12" name="Bugis" line="East West MRT Line" link="EW11,EW13"/>
+    <station id="EW13" name="City Hall" line="East West MRT Line" link="EW12,EW14"/>
+    <station id="EW14" name="Raffles Place" line="East West MRT Line" link="EW13,EW15"/>
     <station id="EW15" name="Tanjong Pagar" line="East West MRT Line" link="EW14,EW16"/>
-    <station id="EW16" name="Outram Park #1" line="East West MRT Line" link="EW15,EW17"/>
+    <station id="EW16" name="Outram Park" line="East West MRT Line" link="EW15,EW17"/>
     <station id="EW17" name="Tiong Bahru" line="East West MRT Line" link="EW16,EW18"/>
     <station id="EW18" name="Redhill" line="East West MRT Line" link="EW17,EW19"/>
     <station id="EW19" name="Queenstown" line="East West MRT Line" link="EW18,EW20"/>
     <station id="EW20" name="Commonwealth" line="East West MRT Line" link="EW19,EW21"/>
-    <station id="EW21" name="Buona Vista #1" line="East West MRT Line" link="EW20,EW22"/>
+    <station id="EW21" name="Buona Vista" line="East West MRT Line" link="EW20,EW22"/>
     <station id="EW22" name="Dover" line="East West MRT Line" link="EW21,EW23"/>
     <station id="EW23" name="Clementi" line="East West MRT Line" link="EW22,EW24"/>
-    <station id="EW24" name="Jurong East #2" line="East West MRT Line" link="EW23,EW25"/>
+    <station id="EW24" name="Jurong East" line="East West MRT Line" link="EW23,EW25"/>
     <station id="EW25" name="Chinese Garden" line="East West MRT Line" link="EW24,EW26"/>
     <station id="EW26" name="Lakeside" line="East West MRT Line" link="EW25,EW27"/>
     <station id="EW27" name="Boon Lay" line="East West MRT Line" link="EW26,EW28"/>
@@ -65,50 +65,50 @@
     <station id="CG2" name="Changi Airport" line="East West MRT Line" link="CG1"/>
 
     <!-- https://en.wikipedia.org/wiki/Circle_MRT_Line -->
-    <station id="CC1" name="Dhoby Ghaut #2" line="Circle MRT Line" link="CC2"/>
+    <station id="CC1" name="Dhoby Ghaut" line="Circle MRT Line" link="CC2"/>
     <station id="CC2" name="Bras Basah" line="Circle MRT Line" link="CC1,CC3"/>
     <station id="CC3" name="Esplanade" line="Circle MRT Line" link="CC2,CC4"/>
-    <station id="CE2" name="Marina Bay #2" line="Circle MRT Line" link="CE1"/>
-    <station id="CE1" name="Bayfront #1" line="Circle MRT Line" link="CE2,CC4"/>
-    <station id="CC4" name="Promenade #1" line="Circle MRT Line" link="CC3,CC5"/>
+    <station id="CE2" name="Marina Bay" line="Circle MRT Line" link="CE1"/>
+    <station id="CE1" name="Bayfront" line="Circle MRT Line" link="CE2,CC4"/>
+    <station id="CC4" name="Promenade" line="Circle MRT Line" link="CC3,CC5"/>
     <station id="CC5" name="Nicoll Highway" line="Circle MRT Line" link="CC4,CC6"/>
     <station id="CC6" name="Stadium" line="Circle MRT Line" link="CC5,CC7,"/>
     <station id="CC7" name="Mountbatten" line="Circle MRT Line" link="CC6,CC8"/>
     <station id="CC8" name="Dakota" line="Circle MRT Line" link="CC7,CC9"/>
-    <station id="CC9" name="Paya Lebar #2" line="Circle MRT Line" link="CC8,CC10"/>
+    <station id="CC9" name="Paya Lebar" line="Circle MRT Line" link="CC8,CC10"/>
     <station id="CC10" name="MacPherson" line="Circle MRT Line" link="CC9,CC11"/>
     <station id="CC11" name="Tai Seng" line="Circle MRT Line" link="CC10,CC12"/>
     <station id="CC12" name="Bartley" line="Circle MRT Line" link="CC11,CC13"/>
-    <station id="CC13" name="Serangoon #1" line="Circle MRT Line" link="CC12,CC14"/>
+    <station id="CC13" name="Serangoon" line="Circle MRT Line" link="CC12,CC14"/>
     <station id="CC14" name="Lorong Chuan" line="Circle MRT Line" link="CC13,CC15"/>
-    <station id="CC15" name="Bishan #2" line="Circle MRT Line" link="CC14,CC16"/>
+    <station id="CC15" name="Bishan" line="Circle MRT Line" link="CC14,CC16"/>
     <station id="CC16" name="Marymount" line="Circle MRT Line" link="CC15,CC17"/>
     <station id="CC17" name="Caldecott" line="Circle MRT Line" link="CC16,CC19"/>
     <!-- <station id="CC18" name="Bukit Brown" line="Circle MRT Line" link="CC17,CC19"/> -->
     <station id="CC19" name="Botanic Gardens" line="Circle MRT Line" link="CC17,CC20,"/>
     <station id="CC20" name="Farrer Road" line="Circle MRT Line" link="CC19,CC21"/>
     <station id="CC21" name="Holland Village" line="Circle MRT Line" link="CC20,CC22"/>
-    <station id="CC22" name="Buona Vista #2" line="Circle MRT Line" link="CC21,CC23"/>
+    <station id="CC22" name="Buona Vista" line="Circle MRT Line" link="CC21,CC23"/>
     <station id="CC23" name="one-north" line="Circle MRT Line" link="CC22,CC24"/>
     <station id="CC24" name="Kent Ridge" line="Circle MRT Line" link="CC23,CC25"/>
     <station id="CC25" name="Haw Par Villa" line="Circle MRT Line" link="CC24,CC26"/>
     <station id="CC26" name="Pasir Panjang" line="Circle MRT Line" link="CC25,CC27"/>
     <station id="CC27" name="Labrador Park" line="Circle MRT Line" link="CC26,CC28"/>
     <station id="CC28" name="Telok Blangah" line="Circle MRT Line" link="CC27,CC29"/>
-    <station id="CC29" name="HarbourFront #1" line="Circle MRT Line" link="CC28"/>
+    <station id="CC29" name="HarbourFront" line="Circle MRT Line" link="CC28"/>
 
     <!-- https://en.wikipedia.org/wiki/North_East_MRT_Line -->
-    <station id="NE1" name="HarbourFront #2" line="North East MRT Line" link="NE3"/>
-    <station id="NE3" name="Outram Park #2" line="North East MRT Line" link="NE1,NE4"/>
-    <station id="NE4" name="Chinatown #1" line="North East MRT Line" link="NE3,NE5"/>
+    <station id="NE1" name="HarbourFront" line="North East MRT Line" link="NE3"/>
+    <station id="NE3" name="Outram Park" line="North East MRT Line" link="NE1,NE4"/>
+    <station id="NE4" name="Chinatown" line="North East MRT Line" link="NE3,NE5"/>
     <station id="NE5" name="Clarke Quay" line="North East MRT Line" link="NE4,NE6"/>
-    <station id="NE6" name="Dhoby Ghaut #3" line="North East MRT Line" link="NE5,NE7"/>
+    <station id="NE6" name="Dhoby Ghaut" line="North East MRT Line" link="NE5,NE7"/>
     <station id="NE7" name="Little India" line="North East MRT Line" link="NE6,NE8"/>
     <station id="NE8" name="Farrer Park" line="North East MRT Line" link="NE7,NE9"/>
     <station id="NE9" name="Boon Keng" line="North East MRT Line" link="NE8,NE10"/>
     <station id="NE10" name="Potong Pasir" line="North East MRT Line" link="NE9,NE11"/>
     <station id="NE11" name="Woodleigh" line="North East MRT Line" link="NE10,NE12"/>
-    <station id="NE12" name="Serangoon #2s" line="North East MRT Line" link="NE11,NE13"/>
+    <station id="NE12" name="Serangoon" line="North East MRT Line" link="NE11,NE13"/>
     <station id="NE13" name="Kovan" line="North East MRT Line" link="NE12,NE14"/>
     <station id="NE14" name="Hougang" line="North East MRT Line" link="NE13,NE15"/>
     <station id="NE15" name="Buangkok" line="North East MRT Line" link="NE14,NE16"/>
@@ -116,11 +116,11 @@
     <station id="NE17" name="Punggol" line="North East MRT Line" link="NE16"/>
 
     <!-- https://en.wikipedia.org/wiki/Downtown_MRT_Line -->
-    <station id="DT14" name="Bugis #2" line="Downtown MRT Line" link="DT15"/>
-    <station id="DT15" name="Promenade #2" line="Downtown MRT Line" link="DT14,DT16"/>
-    <station id="DT16" name="Bayfront #2" line="Downtown MRT Line" link="DT15,DT17"/>
+    <station id="DT14" name="Bugis" line="Downtown MRT Line" link="DT15"/>
+    <station id="DT15" name="Promenade" line="Downtown MRT Line" link="DT14,DT16"/>
+    <station id="DT16" name="Bayfront" line="Downtown MRT Line" link="DT15,DT17"/>
     <station id="DT17" name="Downtown" line="Downtown MRT Line" link="DT16,DT18"/>
     <station id="DT18" name="Telok Ayer" line="Downtown MRT Line" link="DT17,DT19"/>
-    <station id="DT19" name="Chinatown #2" line="Downtown MRT Line" link="DT18,"/>
+    <station id="DT19" name="Chinatown" line="Downtown MRT Line" link="DT18,"/>
   </stations>
 </tube>
