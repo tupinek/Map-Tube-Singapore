@@ -173,7 +173,7 @@ For more information about Singapore Map, click L<here|https://en.wikipedia.org/
  system "ls -l Singapore.png";
 
  # Output like:
- # TODO
+ # -rw-r--r-- 1 skim skim 340307 Feb 15 15:09 Singapore.png
 
 =begin html
 
