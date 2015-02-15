@@ -1,0 +1,57 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.70.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 7a18d8dba10dab9377fa24617a42f5639a4ffbfc Changes
+SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
+SHA1 507a10efa92555ddddfbe72be27964d9e3eef80f LICENSE.bsd
+SHA1 526cd0e63c85f3c524d3efa46730ab7af8b8ee2a MANIFEST
+SHA1 139b3f0b24548bd75f47588e092109949a50e5cb META.yml
+SHA1 a215b02cde14fca9d03d433abf875ce80bf709d7 Makefile.PL
+SHA1 9d08ca70a9e08acd125f7019e3143431686cbab6 README
+SHA1 da3d3dc778abc8dbab891a9f16d37f8c483b6637 Singapore.pm
+SHA1 177b2d3ce66637d6f1f74a1d61515a268cc906f3 examples/ex1.pl
+SHA1 88c3ea95299d3cf2c563fedcb422ce9c9ddb072e examples/ex2.pl
+SHA1 346eaa3a0d7e32926f62190da7c676fbef9e15bd examples/ex3.pl
+SHA1 e9427440c759b393bb4f9037381437f763a995d9 images/ex3.png
+SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
+SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
+SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
+SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
+SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
+SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
+SHA1 3283fb3bb58e10c29029567e63b805cdeb66af10 inc/Module/Install/Share.pm
+SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
+SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
+SHA1 dcabdf74f4f362d7a6c638c5d19eab19d5d05097 share/singapore-map.xml
+SHA1 933526b2658094f20a9df6eb1be446790ea46bc6 t/Map-Tube-Singapore/00-use.t
+SHA1 e2bc6c6a0be0fe8f222bb2dc20d8d07f9fa2074a t/Map-Tube-Singapore/01-version.t
+SHA1 01c1d4bae78481843fb65aedd1d79e27061c0767 t/Map-Tube-Singapore/02-pod_coverage.t
+SHA1 5f9dd71b5134303564afc38b9070663a1cac460e t/Map-Tube-Singapore/03-pod.t
+SHA1 2687cfa2bd5bb2eddfe1e827ae7b84754c966d48 t/Map-Tube-Singapore/04-get_shortest_route.t
+SHA1 2d18e61c3e6e93f2e35ac33f4949adaa08bc23a6 t/Map-Tube-Singapore/05-name.t
+SHA1 dd8e9a4089b7fe46f3d4055352a075d5d05f5c55 t/Map-Tube-Singapore/06-xml.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJU4Kk2AAoJEJe+XXKaIuTlhYYIAIMcxRv+5bvgVWaGy2+jmz9q
+fkjiBJ3MDHF5fhErGIbzlIbGE13RQ2je0SyszI173iJHNVw6QZxZmEhXWkxUWE5t
+ITUzoib8dF56ujRsrUVQqQUJH4mgMNGhMGx1N8q38rPBYQ6koHXYfAY+zhen0PQi
+HiovVQlLTJNcW5tyYd7dhr7qL1M3QyT0PDSGPkHL2uVCHK/lDVHwmm9wzFT/hu+O
+vwZW41XkBOEEMOJQ+JsdtRuU6TWQDy7j+DY6HT/Yq/Loy19dtsuBJdPqIvF8Mf5x
+M4EH1Pypxa4q7Ya2jmziueP8lMPKiXUtZIM/Wc5uATypjd9lfOKR5+I9+TwGrqE=
+=xXzY
+-----END PGP SIGNATURE-----

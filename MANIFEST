@@ -20,6 +20,7 @@ MANIFEST			This list of files
 META.yml
 README
 share/singapore-map.xml
+SIGNATURE
 Singapore.pm
 t/Map-Tube-Singapore/00-use.t
 t/Map-Tube-Singapore/01-version.t
