@@ -1,7 +1,5 @@
 TODO
 ====
-1. Prvni verze.
-   https://en.wikipedia.org/wiki/Mass_Rapid_Transit_(Singapore)
 3. Jak resit https://en.wikipedia.org/wiki/Bukit_Panjang_LRT_Line ?
    Jde o to, ze je to jiny typ dopravy (LRT oproti MRT)
 4. Jak resit https://en.wikipedia.org/wiki/Sengkang_LRT_Line ?
@@ -13,4 +11,8 @@ TODO
 Applied
 =======
 2. Odstranit #1, #2 a #3 se jmen stanic. Musi byt lepsi Map::Tube.
+OK [20150215] skim
+
+1. Prvni verze.
+   https://en.wikipedia.org/wiki/Mass_Rapid_Transit_(Singapore)
 OK [20150215] skim
