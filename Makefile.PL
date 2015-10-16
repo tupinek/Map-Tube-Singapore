@@ -14,7 +14,7 @@ license 'artistic_2';
 name 'Map-Tube-Singapore';
 readme_from 'Singapore.pm';
 requires 'File::Share' => 0;
-requires 'Map::Tube' => '2.41';
+requires 'Map::Tube' => '3.06';
 requires 'Moo' => 0;
 requires 'namespace::clean' => 0;
 requires 'perl' => '5.6.0';

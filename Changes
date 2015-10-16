@@ -3,6 +3,7 @@
  - Fix minimal version of Perl to 5.6.0.
  - Rewrite SEE ALSO section to new style.
  - Update Module::Install to 1.16 version.
+ - Update to Map::Tube 3.06.
 
 0.01 2015-02-15T15:11:47+01:00
  - First version
