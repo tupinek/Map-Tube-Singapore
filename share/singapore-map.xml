@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tube name="Mass Rapid Transit">
   <!-- https://en.wikipedia.org/wiki/Mass_Rapid_Transit_(Singapore) -->
+  <lines>
+    <line id="NSL" name="North South MRT Line" color="red"/>
+    <line id="EWL" name="East West MRT Line" color="green"/>
+    <line id="CCL" name="Circle MRT Line" color="orange"/>
+    <line id="NEL" name="North East MRT Line" color="magenta"/>
+    <line id="DTL" name="Downtown MRT Line" color="blue"/>
+  </lines>
   <stations>
     <!-- https://en.wikipedia.org/wiki/North_South_MRT_Line -->
     <station id="NS1" name="Jurong East" line="North South MRT Line" link="NS2,EW24"/>
