@@ -28,8 +28,14 @@ Singapore.pm
 t/Map-Tube-Singapore/01-use.t
 t/Map-Tube-Singapore/02-version.t
 t/Map-Tube-Singapore/03-map.t
-t/Map-Tube-Singapore/04-get_shortest_route.t
-t/Map-Tube-Singapore/05-name.t
-t/Map-Tube-Singapore/06-xml.t
+t/Map-Tube-Singapore/04-get_line_by_id.t
+t/Map-Tube-Singapore/05-get_line_by_name.t
+t/Map-Tube-Singapore/06-get_lines.t
+t/Map-Tube-Singapore/07-get_node_by_id.t
+t/Map-Tube-Singapore/08-get_node_by_name.t
+t/Map-Tube-Singapore/09-get_shortest_route.t
+t/Map-Tube-Singapore/10-get_stations.t
+t/Map-Tube-Singapore/11-name.t
+t/Map-Tube-Singapore/12-xml.t
 xt/Map-Tube-Singapore/01-pod_coverage.t
 xt/Map-Tube-Singapore/02-pod.t

@@ -3,6 +3,8 @@
  - Add get_line_by_id() and get_line_by_name() methods to doc.
  - Add lines to XML document.
  - Add test of map validity.
+ - Add tests for get_line_by_id(), get_line_by_name(), get_lines(),
+   get_node_by_id(), get_node_by_name() and get_stations() methods.
  - Fix minimal version of Perl to 5.6.0.
  - Improve description for get_lines() in doc.
  - Move author tests to xt/ directory.
