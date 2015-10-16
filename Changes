@@ -1,4 +1,4 @@
-0.02
+0.02 2015-10-16T10:07:56+02:00
  - Add EXAMPLE4 to doc.
  - Add get_line_by_id() and get_line_by_name() methods to doc.
  - Add lines to XML document.
