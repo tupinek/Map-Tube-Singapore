@@ -14,18 +14,19 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 67791a88078aaafa7a0233b490ee139592830d71 Changes
+SHA1 7d2c54e414c35b3c7bc41ada109d1075650a4d62 Changes
 SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
 SHA1 507a10efa92555ddddfbe72be27964d9e3eef80f LICENSE.bsd
-SHA1 069e6adba7b9d665d3d068abb350a1ec2bdb918e MANIFEST
-SHA1 424398d61d5901fd9352ef88221fffc6ca778f53 META.yml
-SHA1 ba548ee548959709b534aa62d2056a2f056b77fb Makefile.PL
-SHA1 d37719b19863991b4168318bf3d7f7ffc966af66 README
-SHA1 cae4ebf36ae674ed55d6ba39e35c95b5ee1af4c6 Singapore.pm
+SHA1 2df61b52f123e8d20ba3a40fb35ff8a0244c0336 MANIFEST
+SHA1 bf6b306ea49aa8e9c2d1cb7e1636c43da9d64797 META.yml
+SHA1 db9f90d7cfd0100f584739312badd399da3b343c Makefile.PL
+SHA1 f50b67bed7be33ee5c8036140ca7189925a68125 README
+SHA1 cfde0ce31b186296f8ca568c94849d796aad01fc Singapore.pm
 SHA1 177b2d3ce66637d6f1f74a1d61515a268cc906f3 examples/ex1.pl
 SHA1 88c3ea95299d3cf2c563fedcb422ce9c9ddb072e examples/ex2.pl
-SHA1 346eaa3a0d7e32926f62190da7c676fbef9e15bd examples/ex3.pl
+SHA1 0b6246db798560947f92f19182bf943019416d2c examples/ex3.pl
 SHA1 70239ee04bc544b8c24f9b3bcf8ae7705e27a527 examples/ex4.pl
+SHA1 bc4182923c6601d38de018a65b4cc25b19c0d48f examples/ex5.pl
 SHA1 4a0f088eecb05fb90bd1899aa7e8258263af6025 images/ex3.png
 SHA1 bce3c51bb369419603298064b78e14077b93af66 inc/Module/Install.pm
 SHA1 5c1a9d3a384a5262cbc105ab76d446047904c7fa inc/Module/Install/AuthorRequires.pm
@@ -39,9 +40,9 @@ SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.p
 SHA1 42de62df31eaf796d8bfd49a11fdc9cff1b50b74 inc/Module/Install/Share.pm
 SHA1 c830b819e61bda5eca077c6291293bba61b3b9f2 inc/Module/Install/Win32.pm
 SHA1 cb52b9d6f88d512d448a6f35ed0af0d1201a134b inc/Module/Install/WriteAll.pm
-SHA1 1f478de0871b64f78306de8c27b9e5b03496d998 share/singapore-map.xml
+SHA1 61a7579ffa9a886bc855712bea7f083358101248 share/singapore-map.xml
 SHA1 933526b2658094f20a9df6eb1be446790ea46bc6 t/Map-Tube-Singapore/01-use.t
-SHA1 aaadeef2e4674952cf90cceae1fdec5a273db153 t/Map-Tube-Singapore/02-version.t
+SHA1 3729012c737e4374d33b183aaf0a0f8fbafdc92e t/Map-Tube-Singapore/02-version.t
 SHA1 d30a50d7222ea827cbd36677720febe653493dc5 t/Map-Tube-Singapore/03-map.t
 SHA1 721265aef1b4ab20e9b092e3eb4ada218d52de48 t/Map-Tube-Singapore/04-get_line_by_id.t
 SHA1 a31ca99dc397df65b73956cc470dcf1b39598e4b t/Map-Tube-Singapore/05-get_line_by_name.t
@@ -57,11 +58,11 @@ SHA1 5f9dd71b5134303564afc38b9070663a1cac460e xt/Map-Tube-Singapore/02-pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJWILBgAAoJEJe+XXKaIuTlcLQH/3ARfZR8Zq+ZVZj6Mq1PP4dJ
-85v5PGNKvljytjGgegaBO6pOHFJl/YO/q6YDWYHwio3HM7QgzHOEJ66PbyuTDEaV
-7qoZa31ZwtzAKfnY+wmZcZSuVBueWrmDNSxaYDsbaRitFVmJqWgvX2oTKlpwpRQ0
-O8eZYoLY04LW0+55GfvnL+x7AGhDzCS1CVZ/RBN5UverKuQp7r7u9cO1U5+kWJOD
-vQjBDi+YkI1HytONg+Axb0jHi1tSst9WmZ+2ZpXCyLQS3QtBVRd7b1eycOtsEuq4
-XVc4Nqf3Sl4/C082qgOWPWnWRG07BTyOmmZMci4HvCmfWXB8PbhNTvZK7P27Plk=
-=B8G3
+iQEcBAEBAgAGBQJWOzWCAAoJEJe+XXKaIuTlm/UIALpAhndWwKTbJz5HXcR75RzO
+chKLqcRjsL7l/KXrZATrnIrLgH5jCfokpMbHdNX9UdhAFddOhQu/OMb2kWDeVHhO
+MMbIeEVYOGVfZAqIOSn+SGRfMj6VmwrImFRFhc4Pw9X3Cfhp++nY0lGmmfr05VXf
+0C7st8XjpZbifhe9AT3VsgyZVSmm5WLKEIuJfph5TLSl4+zBqSgyyuzt1jJqOaKr
+T/v9kzF7HWKJp6mQ2iYQ36CxvNQUais94fSNs4iOFKUTMhD8FX3Q43X5NZerC1It
++frIu7cikmfRG5qhlDAWOO1qd/b3Zy5xli+N99Xxl7xtPoaxwR7X5T4wh3BJ95E=
+=r7iI
 -----END PGP SIGNATURE-----
