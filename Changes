@@ -1,4 +1,5 @@
 0.04
+ - Update Module::Install to 1.18 version.
 
 0.03 2015-11-05T11:54:56+01:00
  - Add EXAMPLE5 section to doc.
