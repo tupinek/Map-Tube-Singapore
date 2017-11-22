@@ -2,6 +2,7 @@
  - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
  - Remove bad test.
  - Update Module::Install to 1.18 version.
+ - Update copyright years to 2017.
  - Update to Map::Tube 3.41.
 
 0.03 2015-11-05T11:54:56+01:00
